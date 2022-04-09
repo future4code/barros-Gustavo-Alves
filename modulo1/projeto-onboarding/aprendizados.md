@@ -1,2 +1,3 @@
 # Aprendizado da Semana
-    _ _Parágrafo_ _ indentado 
+
+    __ Parágrafo __ indentado 
