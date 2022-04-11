@@ -1,6 +1,6 @@
 # Aprendizado da Semana 
 
-      Parágrafo indentado
+   Parágrafo indentado
       Parágrafo indentado
       __Parágrafo indentado__
 
