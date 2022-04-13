@@ -32,5 +32,6 @@ let variavel5  = Boolean(  prompt("Gostaria de Voltar?  Sim / Não "  )) = (Sim=
 console.log (alert ( variavel5 ))
 let variavel6 = Boolean (variavel5) (prompt(variavel5)) 
     //
+    //
     //    
 // FIM 
